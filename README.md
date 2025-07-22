@@ -28,7 +28,9 @@ Currently learning **JavaScript (ES6+) & React** and building real-world project
 ![Jaskaran's GitHub stats](https://github-readme-stats.vercel.app/api?username=jaskaransingh2121&show_icons=true&theme=radical)
 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=jaskaransingh2121&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+![GitHub Stats](https://raw.githubusercontent.com/jaskaransingh2121/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+![GitHub Languages](https://raw.githubusercontent.com/jaskaransingh2121/github-stats/master/generated/languages.svg#gh-dark-mode-only)
+
 
 
 
