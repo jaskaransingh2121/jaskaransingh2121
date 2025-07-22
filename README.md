@@ -33,7 +33,7 @@ Currently learning **JavaScript (ES6+) & React** and building real-world project
 
 ### 📫 **Let's Connect**
 - **Email:** jaskaran2127@gmail.com
-- **LinkedIn:** 
+- **LinkedIn:** https://www.linkedin.com/in/jaskaran-singh-5b9b5b301?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
 - **Portfolio:** (Coming Soon...)
 
 ---
