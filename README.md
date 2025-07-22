@@ -27,7 +27,9 @@ Currently learning **JavaScript (ES6+) & React** and building real-world project
 ### 📊 **GitHub Stats**
 ![Jaskaran's GitHub stats](https://github-readme-stats.vercel.app/api?username=jaskaransingh2121&show_icons=true&theme=radical)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=jaskaransingh2121&theme=radical)
+### 🔥 GitHub Streak
+[![GitHub Streak](https://streak-stats.demolab.com?user=jaskaransingh2121&theme=radical&hide_border=true)](https://git.io/streak-stats)
+
 
 ---
 
