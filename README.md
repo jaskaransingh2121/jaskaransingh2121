@@ -26,7 +26,7 @@
 | 🎨 **Portfolio Website** | Responsive personal portfolio built using HTML, CSS, JS | [Live Demo](https://jaskarancodes.netlify.app/) |
 | 📊 **Admin Dashboard** | Mobile-only dashboard using Chart.js | [Live Demo](https://my-admin-dashboardd.netlify.app/) |
 | 🛍️ **E-Commerce UI** | Product cards & listing page | [Live Demo](https://cartnexus.netlify.app/) |
-| 💬 **Quote Generator** | Random quotes with JavaScript logic | [Live Demo](https://your-quote-generator.netlify.app) |
+| 💬 **Quote Generator** | Random quotes with JavaScript logic | [Live Demo](https://quotastic-app.netlify.app/) |
 | ☁️ **Weather App** | Weather data from API | [Live Demo](https://your-weather-app-link.netlify.app) |
 
 ---
