@@ -20,7 +20,7 @@ Currently learning **JavaScript (ES6+) & React** and building real-world project
 ### 🏆 **Featured Projects**
 - **[Weather App](https://github.com/jaskaransingh2121/weather-app)** – Fetches real-time weather using API.
 - **[Notes App](https://github.com/jaskaransingh2121/notes-app)** – Save and manage notes with LocalStorage.
-- **[Portfolio Website](#)** – https://jaskarancodes.netlify.app/
+- **[Portfolio Website](https://jaskarancodes.netlify.app/)** 
 
 ---
 
