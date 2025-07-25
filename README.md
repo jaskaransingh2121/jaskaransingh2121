@@ -1,38 +1,55 @@
-# 👋 Hi, I'm Jaskaran Singh
+<h1 align="center">Hi 👋, I'm Jaskaran Singh</h1>
+<h3 align="center">A passionate Frontend Developer from India</h3>
 
-### 🚀 Frontend Developer | Aspiring Full Stack Engineer | Passionate Learner
-
-I'm a dedicated and creative frontend developer who loves building responsive, user-friendly web interfaces using **HTML, CSS, JavaScript**, and modern tools. Currently, I'm sharpening my skills with **real-world projects**, while learning **React** and **Python** on the side.
-
----
-
-## 🛠️ Tech Stack
-- **Frontend**: HTML5, CSS3, JavaScript, Bootstrap
-- **Tools & Platforms**: Git, GitHub, VS Code, Netlify
-- **Learning**: React.js, Python, APIs, Chart.js
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&multiline=true&width=500&lines=Frontend+Developer;Aspiring+Full+Stack+Developer;Learning+React+and+Python" alt="Typing SVG" />
+</p>
 
 ---
 
-## 📌 Featured Projects
-- 🎨 [Portfolio Website](https://your-netlify-link.netlify.app) — Personal developer portfolio with live preview  
-- 📊 [Admin Dashboard](https://your-dashboard-link.netlify.app) — Mobile-responsive dashboard with Chart.js  
-- 🛍️ [E-Commerce UI](https://your-ecommerce-link.netlify.app) — Responsive product listing and shopping layout  
-- 🧠 [Quote Generator](https://your-quote-generator.netlify.app) — JavaScript-powered random quote app  
-- ☁️ [Weather App](https://your-weather-app-link.netlify.app) — Live weather info using OpenWeatherMap API  
+## 🔧 Tech Stack & Tools
+
+<p align="left">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
+  <img src="https://img.shields.io/badge/Chart.js-F5788D?style=for-the-badge&logo=chartdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
+</p>
 
 ---
 
-## 🔍 Currently Looking For
-- 🌟 **Frontend Development Internship** (Remote/On-site)
-- 💼 Opportunities to work with a collaborative and learning-focused team
+## 📌 Projects
+
+| Project | Description | Live Link |
+|--------|-------------|-----------|
+| 🎨 **Portfolio Website** | Responsive personal portfolio built using HTML, CSS, JS | [Live Demo](https://your-netlify-link.netlify.app) |
+| 📊 **Admin Dashboard** | Mobile-only dashboard using Chart.js | [Live Demo](https://your-dashboard-link.netlify.app) |
+| 🛍️ **E-Commerce UI** | Product cards & listing page | [Live Demo](https://your-ecommerce-link.netlify.app) |
+| 💬 **Quote Generator** | Random quotes with JavaScript logic | [Live Demo](https://your-quote-generator.netlify.app) |
+| ☁️ **Weather App** | Weather data from API | [Live Demo](https://your-weather-app-link.netlify.app) |
+
+---
+
+## 💡 Currently Learning
+
+- React.js ⚛️  
+- Python 🐍  
+- REST APIs 🔗
 
 ---
 
 ## 📫 Let's Connect
-- 📧 Email: [jaskaran2127@gmail.com](mailto:jaskaran2127@gmail.com)
-- 🔗 LinkedIn: [linkedin.com/in/jaskaransingh2121](https://linkedin.com/in/jaskaransingh2121)
-- 💻 GitHub: [github.com/jaskaransingh2121](https://github.com/jaskaransingh2121)
+
+- 📧 [jaskaran2127@gmail.com](mailto:jaskaran2127@gmail.com)
+- 🔗 [LinkedIn](https://linkedin.com/in/jaskaransingh2121)
+- 💻 [GitHub](https://github.com/jaskaransingh2121)
 
 ---
 
-_“The only way to do great work is to love what you do.” – Steve Jobs_
+> _“Code. Learn. Build. Repeat.”_
+
