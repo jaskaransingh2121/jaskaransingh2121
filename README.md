@@ -1,43 +1,38 @@
-# Hi there, I'm Jaskaran Singh 👋
+# 👋 Hi, I'm Jaskaran Singh
 
-**`Frontend Developer | JavaScript Enthusiast | Open to Internships`**
+### 🚀 Frontend Developer | Aspiring Full Stack Engineer | Passionate Learner
 
-I am a passionate Frontend Developer from India, focused on creating interactive and responsive web applications.  
-Currently learning **JavaScript (ES6+) & React** and building real-world projects.
-
----
-
-### 🚀 **Tech Stack**
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VSCode](https://img.shields.io/badge/VS%20Code-0078d7?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+I'm a dedicated and creative frontend developer who loves building responsive, user-friendly web interfaces using **HTML, CSS, JavaScript**, and modern tools. Currently, I'm sharpening my skills with **real-world projects**, while learning **React** and **Python** on the side.
 
 ---
 
-### 🏆 **Featured Projects**
-- **[Weather App](https://github.com/jaskaransingh2121/weather-app)** – Fetches real-time weather using API.
-- **[Notes App](https://github.com/jaskaransingh2121/notes-app)** – Save and manage notes with LocalStorage.
-- **[Portfolio Website](https://jaskarancodes.netlify.app/)** 
+## 🛠️ Tech Stack
+- **Frontend**: HTML5, CSS3, JavaScript, Bootstrap
+- **Tools & Platforms**: Git, GitHub, VS Code, Netlify
+- **Learning**: React.js, Python, APIs, Chart.js
 
 ---
 
-### 📊 **GitHub Stats**
-![Jaskaran's GitHub stats](https://github-readme-stats.vercel.app/api?username=jaskaransingh2121&show_icons=true&theme=radical)
-
-
-![GitHub Streak](https://streak-stats.demolab.com?user=jaskaransingh2121&theme=radical)
-
----
-
-### 📫 **Let's Connect**
-- **Email:** jaskaran2127@gmail.com
-- **LinkedIn:** https://www.linkedin.com/in/jaskaran-singh-5b9b5b301?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
-- **Portfolio:** https://jaskarancodes.netlify.app/
+## 📌 Featured Projects
+- 🎨 [Portfolio Website](https://your-netlify-link.netlify.app) — Personal developer portfolio with live preview  
+- 📊 [Admin Dashboard](https://your-dashboard-link.netlify.app) — Mobile-responsive dashboard with Chart.js  
+- 🛍️ [E-Commerce UI](https://your-ecommerce-link.netlify.app) — Responsive product listing and shopping layout  
+- 🧠 [Quote Generator](https://your-quote-generator.netlify.app) — JavaScript-powered random quote app  
+- ☁️ [Weather App](https://your-weather-app-link.netlify.app) — Live weather info using OpenWeatherMap API  
 
 ---
 
-⭐ **Don't forget to check out my repositories and give them a star if you like them!**
+## 🔍 Currently Looking For
+- 🌟 **Frontend Development Internship** (Remote/On-site)
+- 💼 Opportunities to work with a collaborative and learning-focused team
 
+---
+
+## 📫 Let's Connect
+- 📧 Email: [jaskaran2127@gmail.com](mailto:jaskaran2127@gmail.com)
+- 🔗 LinkedIn: [linkedin.com/in/jaskaransingh2121](https://linkedin.com/in/jaskaransingh2121)
+- 💻 GitHub: [github.com/jaskaransingh2121](https://github.com/jaskaransingh2121)
+
+---
+
+_“The only way to do great work is to love what you do.” – Steve Jobs_
