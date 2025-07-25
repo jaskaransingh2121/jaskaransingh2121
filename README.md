@@ -23,7 +23,7 @@
 
 | Project | Description | Live Link |
 |--------|-------------|-----------|
-| 🎨 **Portfolio Website** | Responsive personal portfolio built using HTML, CSS, JS | [Live Demo](https://your-netlify-link.netlify.app) |
+| 🎨 **Portfolio Website** | Responsive personal portfolio built using HTML, CSS, JS | [Live Demo](https://jaskarancodes.netlify.app/) |
 | 📊 **Admin Dashboard** | Mobile-only dashboard using Chart.js | [Live Demo](https://your-dashboard-link.netlify.app) |
 | 🛍️ **E-Commerce UI** | Product cards & listing page | [Live Demo](https://your-ecommerce-link.netlify.app) |
 | 💬 **Quote Generator** | Random quotes with JavaScript logic | [Live Demo](https://your-quote-generator.netlify.app) |
